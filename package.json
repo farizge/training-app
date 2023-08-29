@@ -19,7 +19,9 @@
   },
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^5.3.3",
-    "postcss": "^8.4.17",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "tailwindcss": "^3.3.3",
     "volar-service-vetur": "latest"
   }
 }
