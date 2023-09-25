@@ -2,13 +2,10 @@
   <nav class="w-full bg-pink-600 p-8 shadow-md">
     <ul class="flex gap-8 font-medium">
       <li>
-        <NuxtLink to="/" class="active hover:text-white">Home</NuxtLink>
+        <NuxtLink to="/" class="active hover:text-white">Todo</NuxtLink>
       </li>
       <li>
-        <NuxtLink to="/about" class="hover:text-white">About</NuxtLink>
-      </li>
-      <li>
-        <NuxtLink to="/blogs" class="hover:text-white">Blogs</NuxtLink>
+        <NuxtLink to="/tugas5" class="hover:text-white">Tugas 5</NuxtLink>
       </li>
     </ul>
   </nav>
